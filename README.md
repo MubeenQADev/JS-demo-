@@ -1,4 +1,5 @@
 # JS-demo-
 This is some code practice happening on code editor.
 <br>
-author - MubeenQADev
+author - MubeenQADev 
+written by someone
